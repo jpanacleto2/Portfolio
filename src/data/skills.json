@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.svg"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "Pandas",
+      "imageSrc": "skills/pandas.png"
+    },
+    {
+      "title": "Tensorflow",
+      "imageSrc": "skills/tensorflow.png"
+    },
+    {
+      "title": "Pytorch",
+      "imageSrc": "skills/pytorch.png"
+    },
+    {
+      "title": "Google Collab",
+      "imageSrc": "skills/collab.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    }
+  ]
