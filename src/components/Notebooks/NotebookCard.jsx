@@ -1,9 +1,9 @@
 import React from "react";
 
-import styles from "./ProjectCard.module.css";
+import styles from "./NotebookCard.module.css";
 import { getImageUrl } from "../../utils";
 
-export const ProjectCard = ({
+export const NotebookCard = ({
   project: { title, imageSrc, description, skills, demo, source },
 }) => {
   return (

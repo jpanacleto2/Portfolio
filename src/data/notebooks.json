@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Pytroch",
+      "imageSrc": "projects/pytorch_1.jpg",
+      "description": "Notebooks where I learned PyTorch syntax, neural networks, multilayer perceptron, and convolutional neural networks.",
+      "skills": ["Pytroch", "MLP","CNN"],
+      "source": "https://github.com/jpanacleto2/Portfolio/tree/master/Studies/Pytroch"
+    },
+    {
+      "title": "Tensorflow",
+      "imageSrc": "projects/tensorflow.png",
+      "description": "Notebooks where I learned Tensorflow syntax,neural networks,multilayer perceptron, and convolutional neural networks.",
+      "skills": ["Tensorflow", "MLP", "CNN","Keras"],
+      "source": "https://github.com/jpanacleto2/Portfolio/tree/master/Studies/Tensorflow_Keras"  
+    },
+    {
+      "title": "NLP",
+      "imageSrc": "projects/sklearn.png",
+      "description": "Notebooks where I learned Natural Language Processing using Scikit learn,Spacy,Pandas and Nltk. ",
+      "skills": ["NLP", "SKlearn", "Spacy","NLTK"],
+      "source": "https://github.com/jpanacleto2/Portfolio/tree/master/Studies/NLP"
+    }
+  ]

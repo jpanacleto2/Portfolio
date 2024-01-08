@@ -1,11 +1,11 @@
 [
     {
-      "title": "NLP",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Digits Recognition",
+      "imageSrc": "projects/mnist.png",
+      "description": " This is a PyTorch project to recognize digits in the MNIST dataset using a Multi-Layer Perceptron.",
+      "skills": ["Pytroch", "MLP"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/jpanacleto2/Portfolio/tree/master/Experiments/PytorchMlpMinst"
     },
     {
       "title": "Digits Recognition",

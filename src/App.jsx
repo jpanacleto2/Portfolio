@@ -5,6 +5,7 @@ import { Hero } from './components/Hero/Hero'
 import { About } from './components/About/About'
 import { Experience } from './components/Experience/Experience'
 import { Projects } from './components/Projects/Projects'
+import { Notebooks } from './components/Notebooks/Notebooks'
 import { Contact } from './components/Contact/Contact'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
@@ -19,12 +20,11 @@ export const Home = () => {
       <About/>
       <Experience />
       <Projects />
+      <Notebooks />
       <Contact />
     </div>
   )
 }
-
-
 
 function App() {
   
