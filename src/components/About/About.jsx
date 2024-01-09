@@ -17,7 +17,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Machine Learning Intern</h3>
                         <p>
-                            I'm a Machine learning developer with experience buiilding projects with NeuralNetworks,NaturalLanguageProcessing and another fields related with Machine Learning and DataScience
+                        I'm a machine learning developer with experience in building projects involving Neural Networks, Natural Language Processing, and other fields related to machine learning and data science.
                         </p>
                     </div>
                 </li>
@@ -25,7 +25,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Data Science Intern</h3>
                         <p>
-                        Familiar with DatasSience skilled in Python, machine learning, and data visualization. Eager to apply analytical prowess and collaborate on impactful projects to contribute valuable insights.
+                        Familiar with Data Science, skilled in Python, machine learning, and data visualization. Eager to apply analytical prowess and collaborate on impactful projects to contribute valuable insights.
                         </p>
                     </div>
                 </li>
