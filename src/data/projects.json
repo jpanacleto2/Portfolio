@@ -8,19 +8,11 @@
       "source": "https://github.com/jpanacleto2/Portfolio/tree/master/Experiments/PytorchMlpMinst"
     },
     {
-      "title": "Digits Recognition",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "Sentiment Analysis",
+      "imageSrc": "projects/hughingbert.png",
+      "description": "This is a sentiment analysis project using PyTorch and a pre-trained model, providing a hands-on with Yelp reviews.",
+      "skills": ["Pytorch", "NLP"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Visao computacional",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/PytorchSentimentAnalysis"
     }
   ]
