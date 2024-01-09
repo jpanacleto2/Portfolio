@@ -5,7 +5,7 @@
       "description": " This is a PyTorch project to recognize digits in the MNIST dataset using a Multi-Layer Perceptron.",
       "skills": ["Pytroch", "MLP"],
       "demo": "https://www.example.com",
-      "source": "https://github.com/jpanacleto2/Portfolio/tree/master/Experiments/PytorchMlpMinst"
+      "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/PytorchMlpMinst"
     },
     {
       "title": "Sentiment Analysis",
