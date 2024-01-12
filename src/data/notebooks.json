@@ -10,7 +10,7 @@
       "title": "Tensorflow",
       "imageSrc": "projects/tensorflow.png",
       "description": "Notebooks where I learned Tensorflow syntax,neural networks,multilayer perceptron, and convolutional neural networks.",
-      "skills": ["Tensorflow", "MLP", "CNN","Keras"],
+      "skills": ["Tensorflow", "MLP", "CNN","LSTM"],
       "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Studies/Tensorflow_Keras"  
     },
     {

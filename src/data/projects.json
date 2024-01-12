@@ -1,4 +1,12 @@
-[
+[   
+    {
+    "title": "Toxic Classification",
+    "imageSrc": "projects/ToxicComment.png",
+    "description": "Text toxicity classification inspired by Kaggle, utilizing TensorFlow",
+    "skills": ["Tensorflow", "NLP","Kaggle","Pandas"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/TensorflowCommentToxicity"
+    },
     {
       "title": "Digits Recognition",
       "imageSrc": "projects/mnist.png",
