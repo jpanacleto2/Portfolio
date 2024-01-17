@@ -1,18 +1,23 @@
 [   
     {
-    "title": "Toxic Classification",
+    "title": "Toxicity Classification",
     "imageSrc": "projects/ToxicComment.png",
     "description": "Text toxicity classification inspired by Kaggle, utilizing TensorFlow",
     "skills": ["Tensorflow", "NLP","Kaggle","Pandas"],
-    "demo": "https://www.example.com",
     "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/TensorflowCommentToxicity"
     },
+    {
+      "title": "Leaf Classification",
+      "imageSrc": "projects/leaf_disease.jpg",
+      "description": "Leaf disease classification inspired by Kaggle, utilizing Pytorch",
+      "skills": ["Pytorch", "CNN","Kaggle"],
+      "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/PytrochLeafClassification"
+      },
     {
       "title": "Digits Recognition",
       "imageSrc": "projects/mnist.png",
       "description": " This is a PyTorch project to recognize digits in the MNIST dataset using a Multi-Layer Perceptron.",
       "skills": ["Pytroch", "MLP"],
-      "demo": "https://www.example.com",
       "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/PytorchMlpMinst"
     },
     {
@@ -20,7 +25,6 @@
       "imageSrc": "projects/hughingbert.png",
       "description": "This is a sentiment analysis project using PyTorch and a pre-trained model, providing a hands-on with Yelp reviews.",
       "skills": ["Pytorch", "NLP"],
-      "demo": "https://www.example.com",
       "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/PytorchSentimentAnalysis"
     }
   ]
