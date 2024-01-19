@@ -14,6 +14,13 @@
       "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/PytrochLeafClassification"
       },
     {
+        "title": "Credit Card Fraud",
+        "imageSrc": "projects/credit-card-fraud.png",
+        "description": " Credit card fraud detection Forecasting with Tensorflow, and Scikit Models",
+        "skills": ["Tensorflow", "SKlearn","Kaggle"],
+        "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/PytorchSentimentAnalysis"
+      },
+    {
       "title": "Digits Recognition",
       "imageSrc": "projects/mnist.png",
       "description": " This is a PyTorch project to recognize digits in the MNIST dataset using a Multi-Layer Perceptron.",
@@ -28,3 +35,4 @@
       "source": "https://github.com/jpanacleto2/Machine-learning-experiments/tree/main/Experiments/PytorchSentimentAnalysis"
     }
   ]
+
